@@ -42,23 +42,23 @@
         "number": 106
       },
       {
-        "name": "ABC Spokane HD",
+        "name": "US_ABC Spokane HD",
         "number": 111
       },
       {
-        "name": "CBS Spokane HD",
+        "name": "US_CBS Spokane HD",
         "number": 112
       },
       {
-        "name": "FOX Spokane HD",
+        "name": "US_FOX Spokane HD",
         "number": 113
       },
       {
-        "name": "NBC Spokane HD",
+        "name": "US_NBC Spokane HD",
         "number": 114
       },
       {
-        "name": "ABC Grand Forks HD",
+        "name": "US_ABC Grand Forks HD",
         "number": 115
       },
       {
@@ -147,48 +147,48 @@
         "number": 134
       },
       {
-        "name": "CBS Minneapolis HD",
+        "name": "US_CBS Minneapolis HD",
         "number": 141
       },
       {
-        "name": "FOX Rochester HD",
+        "name": "US_FOX Rochester HD",
         "number": 142,
         "aliases": [
           "WUHF"
         ]
       },
       {
-        "name": "NBC Minneapolis HD",
+        "name": "US_NBC Minneapolis HD",
         "number": 143
       },
       {
-        "name": "PBS Detroit HD",
+        "name": "US_PBS Detroit HD",
         "number": 144,
         "aliases": [
           "WTVS"
         ]
       },
       {
-        "name": "PBS Fargo HD",
+        "name": "US_PBS Fargo HD",
         "number": 145
       },
       {
-        "name": "KTLA 5 CW Los Angeles HD",
+        "name": "US_KTLA 5 CW Los Angeles HD",
         "number": 151
       },
       {
-        "name": "WGN HD",
+        "name": "US_WGN HD",
         "number": 152
       },
       {
-        "name": "myTV38 HD",
+        "name": "US_myTV38 HD",
         "number": 154,
         "aliases": [
           "WSBK"
         ]
       },
       {
-        "name": "Pix 11 HD",
+        "name": "US_Pix 11 HD",
         "number": 155,
         "aliases": [
           "WPIX"
@@ -297,7 +297,7 @@
         "number": 219
       },
       {
-        "name": "Golf Channel HD",
+        "name": "US_Golf Channel HD",
         "number": 221
       },
       {
@@ -309,7 +309,7 @@
         "number": 223
       },
       {
-        "name": "Big Ten Network HD",
+        "name": "US_Big Ten Network HD",
         "number": 224,
         "aliases": [
           "BTN"
@@ -324,7 +324,7 @@
         "number": 226
       },
       {
-        "name": "Sportsman HD",
+        "name": "US_Sportsman HD",
         "number": 227
       },
       {
@@ -348,19 +348,19 @@
         "number": 233
       },
       {
-        "name": "Fox Sports Racing HD",
+        "name": "US_Fox Sports Racing HD",
         "number": 234
       },
       {
-        "name": "Water HD",
+        "name": "US_Water HD",
         "number": 235
       },
       {
-        "name": "Cowboy Channel HD",
+        "name": "US_Cowboy Channel HD",
         "number": 236
       },
       {
-        "name": "RFD HD",
+        "name": "US_RFD HD",
         "number": 237
       },
       {
@@ -394,7 +394,7 @@
         "number": 254
       },
       {
-        "name": "FOX News HD",
+        "name": "US_FOX News HD",
         "number": 255
       },
       {
@@ -406,15 +406,15 @@
         "number": 257
       },
       {
-        "name": "MS Now HD",
+        "name": "US_MS Now HD",
         "number": 258
       },
       {
-        "name": "CNBC HD",
+        "name": "US_CNBC HD",
         "number": 259
       },
       {
-        "name": "Fox Business Network",
+        "name": "US_Fox Business Network",
         "number": 260
       },
       {
@@ -530,7 +530,7 @@
         "number": 424
       },
       {
-        "name": "USA Network HD",
+        "name": "US_USA Network HD",
         "number": 425
       },
       {
@@ -542,7 +542,7 @@
         "number": 427
       },
       {
-        "name": "Oxygen True Crime HD",
+        "name": "US_Oxygen True Crime HD",
         "number": 428
       },
       {
@@ -602,7 +602,7 @@
         "number": 452
       },
       {
-        "name": "Adult Swim HD",
+        "name": "US_Adult Swim HD",
         "number": 454
       },
       {
@@ -614,7 +614,7 @@
         "number": 456
       },
       {
-        "name": "Turner Classic Movies HD",
+        "name": "US_Turner Classic Movies HD",
         "number": 457,
         "aliases": [
           "TCM"
