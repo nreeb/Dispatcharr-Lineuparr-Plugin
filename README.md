@@ -71,6 +71,7 @@ Over 200 built-in channel aliases, plus your own in JSON. Every setting and acti
 | `FR_CanalPlus_TNT_lineup.json` | Canal+ (with TNT) | FR | ~275 |
 | `AU_Foxtel_lineup.json` | Foxtel Platinum Plus | AU | ~140 |
 | `CA_Telus-Optik_lineup.json` | Telus Optik | CA | ~130 |
+| `CA_Bell-Fibe-TV_lineup.json` | Bell Fibe TV (Manitoba) | CA | ~330 |
 | `NL_ODIDO_lineup.json` | ODIDO | NL | ~155 |
 | `NL_KPN_lineup.json` | KPN Interactive TV, television and radio | NL | ~290 |
 | `QA_beIN-MENA_lineup.json` | beIN MENA (Middle East and North Africa) | QA | ~168 |

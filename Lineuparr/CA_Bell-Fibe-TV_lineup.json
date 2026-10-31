@@ -1,0 +1,1352 @@
+{
+  "package": "Bell Fibe TV (Manitoba)",
+  "date": "2025-08",
+  "description": "Bell Fibe TV channel lineup for Manitoba, current as of August 2025. Excludes radio stations, time-shifting locals (no numbers) and Stingray music station range. Premium sports numbers are the first of each multi-channel range.",
+  "source": "Bell Fibe TV Channel Listing (Program_Channel-FIBE_MB_E.pdf)",
+  "categories": {
+    "Starter": [
+      {
+        "name": "TV1",
+        "number": 1
+      },
+      {
+        "name": "CBC",
+        "number": 2
+      },
+      {
+        "name": "US_PBS",
+        "number": 3
+      },
+      {
+        "name": "US_CBS",
+        "number": 4
+      },
+      {
+        "name": "CTV",
+        "number": 5
+      },
+      {
+        "name": "US_NBC",
+        "number": 6
+      },
+      {
+        "name": "CITYTV",
+        "number": 8
+      },
+      {
+        "name": "ICI RADIO-CANADA TÉLÉ (ICI)",
+        "number": 10
+      },
+      {
+        "name": "FAITHTV",
+        "number": 11
+      },
+      {
+        "name": "GLOBAL",
+        "number": 12
+      },
+      {
+        "name": "US_ABC",
+        "number": 13
+      },
+      {
+        "name": "APTN",
+        "number": 14
+      },
+      {
+        "name": "THE WEATHER NETWORK",
+        "number": 16
+      },
+      {
+        "name": "US_FOX",
+        "number": 19
+      },
+      {
+        "name": "CPAC - ENGLISH",
+        "number": 28
+      },
+      {
+        "name": "NAC TV",
+        "number": 30
+      },
+      {
+        "name": "OMNI - REGIONAL",
+        "number": 31
+      },
+      {
+        "name": "ICI RDI",
+        "number": 139
+      },
+      {
+        "name": "AMI-TÉLÉ",
+        "number": 400
+      },
+      {
+        "name": "TV5",
+        "number": 405
+      },
+      {
+        "name": "TVA",
+        "number": 406
+      },
+      {
+        "name": "CPAC - FRENCH",
+        "number": 407
+      },
+      {
+        "name": "TFO",
+        "number": 408
+      },
+      {
+        "name": "UNIS",
+        "number": 409
+      },
+      {
+        "name": "AMITV",
+        "number": 888
+      },
+      {
+        "name": "VIDEO ON DEMAND",
+        "number": 1000
+      },
+      {
+        "name": "TV1 HD",
+        "number": 1001
+      },
+      {
+        "name": "CBC HD",
+        "number": 1002
+      },
+      {
+        "name": "US_PBS HD",
+        "number": 1003
+      },
+      {
+        "name": "US_CBS HD",
+        "number": 1004
+      },
+      {
+        "name": "CTV HD",
+        "number": 1005
+      },
+      {
+        "name": "US_NBC HD",
+        "number": 1006
+      },
+      {
+        "name": "CITYTV HD",
+        "number": 1008
+      },
+      {
+        "name": "ICI RADIO-CANADA TÉLÉ (ICI) HD",
+        "number": 1010
+      },
+      {
+        "name": "FAITHTV HD",
+        "number": 1011
+      },
+      {
+        "name": "GLOBAL HD",
+        "number": 1012
+      },
+      {
+        "name": "US_ABC HD",
+        "number": 1013
+      },
+      {
+        "name": "APTN HD",
+        "number": 1014
+      },
+      {
+        "name": "APTN LANGUAGES HD",
+        "number": 1015
+      },
+      {
+        "name": "THE WEATHER NETWORK HD",
+        "number": 1016
+      },
+      {
+        "name": "US_FOX HD",
+        "number": 1019
+      },
+      {
+        "name": "NAC TV HD",
+        "number": 1030
+      },
+      {
+        "name": "OMNI - REGIONAL HD",
+        "number": 1031
+      },
+      {
+        "name": "UVAGUT TV",
+        "number": 1218
+      },
+      {
+        "name": "AMI-TÉLÉ HD",
+        "number": 1400
+      },
+      {
+        "name": "VU!",
+        "number": 1801
+      }
+    ],
+    "Good": [
+      {
+        "name": "TSC",
+        "number": 7
+      },
+      {
+        "name": "YTV - EAST",
+        "number": 17
+      },
+      {
+        "name": "YTV - WEST",
+        "number": 18
+      },
+      {
+        "name": "TSN2",
+        "number": 21
+      },
+      {
+        "name": "TSN3",
+        "number": 22
+      },
+      {
+        "name": "MUCH",
+        "number": 25
+      },
+      {
+        "name": "VISION TV",
+        "number": 26
+      },
+      {
+        "name": "DAYSTAR CANADA",
+        "number": 27
+      },
+      {
+        "name": "GAME TV",
+        "number": 33
+      },
+      {
+        "name": "TSN1",
+        "number": 37
+      },
+      {
+        "name": "TSN4",
+        "number": 38
+      },
+      {
+        "name": "TSN5",
+        "number": 39
+      },
+      {
+        "name": "A&E",
+        "number": 101
+      },
+      {
+        "name": "US_USA NETWORK",
+        "number": 104
+      },
+      {
+        "name": "CMT",
+        "number": 109
+      },
+      {
+        "name": "E!",
+        "number": 113
+      },
+      {
+        "name": "CTV COMEDY CHANNEL E",
+        "number": 115
+      },
+      {
+        "name": "CTV COMEDY CHANNEL W",
+        "number": 116
+      },
+      {
+        "name": "CTV SCI-FI CHANNEL",
+        "number": 122
+      },
+      {
+        "name": "CTV DRAMA CHANNEL",
+        "number": 123
+      },
+      {
+        "name": "SLICE",
+        "number": 131
+      },
+      {
+        "name": "HOME NETWORK",
+        "number": 134
+      },
+      {
+        "name": "CBC NEWS NETWORK",
+        "number": 140
+      },
+      {
+        "name": "CTV NEWS CHANNEL",
+        "number": 141
+      },
+      {
+        "name": "BNN BLOOMBERG",
+        "number": 142
+      },
+      {
+        "name": "TREEHOUSE",
+        "number": 155
+      },
+      {
+        "name": "CRIME + INVESTIGATION",
+        "number": 164
+      },
+      {
+        "name": "SPORTSNET WEST",
+        "number": 171
+      },
+      {
+        "name": "SPORTSNET EAST",
+        "number": 172
+      },
+      {
+        "name": "SPORTSNET ONTARIO",
+        "number": 173
+      },
+      {
+        "name": "SPORTSNET PACIFIC",
+        "number": 174
+      },
+      {
+        "name": "SPORTSNET ONE",
+        "number": 187
+      },
+      {
+        "name": "GAME+",
+        "number": 190
+      },
+      {
+        "name": "CTV WILD",
+        "number": 251
+      },
+      {
+        "name": "CP 24",
+        "number": 283
+      },
+      {
+        "name": "TSC HD",
+        "number": 1007
+      },
+      {
+        "name": "YTV - EAST HD",
+        "number": 1017
+      },
+      {
+        "name": "TSN2 HD",
+        "number": 1021
+      },
+      {
+        "name": "TSN3 HD",
+        "number": 1022
+      },
+      {
+        "name": "MUCH HD",
+        "number": 1025
+      },
+      {
+        "name": "VISION TV HD",
+        "number": 1026
+      },
+      {
+        "name": "JOYTV",
+        "number": 1032
+      },
+      {
+        "name": "GAME TV HD",
+        "number": 1033
+      },
+      {
+        "name": "TOON-A-VISION HD",
+        "number": 1034
+      },
+      {
+        "name": "TSN1 HD",
+        "number": 1037
+      },
+      {
+        "name": "TSN4 HD",
+        "number": 1038
+      },
+      {
+        "name": "TSN5 HD",
+        "number": 1039
+      },
+      {
+        "name": "DISCOVERY HD",
+        "number": 1100
+      },
+      {
+        "name": "A&E HD",
+        "number": 1101
+      },
+      {
+        "name": "US_USA NETWORK HD",
+        "number": 1104
+      },
+      {
+        "name": "CMT HD",
+        "number": 1109
+      },
+      {
+        "name": "E! HD",
+        "number": 1113
+      },
+      {
+        "name": "CTV COMEDY CHANNEL HD-E",
+        "number": 1115
+      },
+      {
+        "name": "CTV COMEDY CHANNEL HD-W",
+        "number": 1116
+      },
+      {
+        "name": "CTV SCI-FI CHANNEL HD",
+        "number": 1122
+      },
+      {
+        "name": "CTV DRAMA CHANNEL HD",
+        "number": 1123
+      },
+      {
+        "name": "HGTV HD",
+        "number": 1129
+      },
+      {
+        "name": "SLICE HD",
+        "number": 1131
+      },
+      {
+        "name": "HOME NETWORK HD",
+        "number": 1134
+      },
+      {
+        "name": "CBC NEWS NETWORK HD",
+        "number": 1140
+      },
+      {
+        "name": "CTV NEWS CHANNEL HD",
+        "number": 1141
+      },
+      {
+        "name": "BNN BLOOMBERG HD",
+        "number": 1142
+      },
+      {
+        "name": "THE NEWS FORUM HD",
+        "number": 1143
+      },
+      {
+        "name": "TREEHOUSE HD",
+        "number": 1155
+      },
+      {
+        "name": "CRIME + INVESTIGATION HD",
+        "number": 1164
+      },
+      {
+        "name": "TLN",
+        "number": 1165
+      },
+      {
+        "name": "SPORTSNET WEST HD",
+        "number": 1171
+      },
+      {
+        "name": "SPORTSNET EAST HD",
+        "number": 1172
+      },
+      {
+        "name": "SPORTSNET ONTARIO HD",
+        "number": 1173
+      },
+      {
+        "name": "SPORTSNET PACIFIC HD",
+        "number": 1174
+      },
+      {
+        "name": "SPORTSNET ONE HD",
+        "number": 1187
+      },
+      {
+        "name": "GAME+ HD",
+        "number": 1190
+      },
+      {
+        "name": "CTV WILD HD",
+        "number": 1251
+      },
+      {
+        "name": "MAGNOLIA NETWORK HD",
+        "number": 1275
+      },
+      {
+        "name": "AL JAZEERA HD",
+        "number": 1288
+      },
+      {
+        "name": "STINGRAY VIBE HD",
+        "number": 1311
+      },
+      {
+        "name": "STINGRAY LOUD HD",
+        "number": 1313
+      },
+      {
+        "name": "STINGRAY RETRO HD",
+        "number": 1315
+      },
+      {
+        "name": "STINGRAY HITS! HD",
+        "number": 1316
+      },
+      {
+        "name": "PALMARÈS ADISQ PAR STINGRAY",
+        "number": 1317
+      },
+      {
+        "name": "STINGRAY COUNTRY HD",
+        "number": 1323
+      },
+      {
+        "name": "MERIT TV CANADA HD",
+        "number": 1514
+      },
+      {
+        "name": "TSN2 4K",
+        "number": 2021
+      },
+      {
+        "name": "TSN 4K",
+        "number": 2037
+      },
+      {
+        "name": "SPORTSNET 4K",
+        "number": 2173
+      },
+      {
+        "name": "SPORTSNET ONE 4K",
+        "number": 2187
+      }
+    ],
+    "Better": [
+      {
+        "name": "US_CNN",
+        "number": 103
+      },
+      {
+        "name": "GAME SHOW NETWORK",
+        "number": 107
+      },
+      {
+        "name": "US_HLN",
+        "number": 108
+      },
+      {
+        "name": "SHOWCASE",
+        "number": 111
+      },
+      {
+        "name": "CTV LIFE CHANNEL",
+        "number": 117
+      },
+      {
+        "name": "W NETWORK - EAST",
+        "number": 132
+      },
+      {
+        "name": "W NETWORK - WEST",
+        "number": 133
+      },
+      {
+        "name": "FLAVOUR NETWORK",
+        "number": 135
+      },
+      {
+        "name": "US_CNBC",
+        "number": 144
+      },
+      {
+        "name": "CARTOON NETWORK",
+        "number": 157
+      },
+      {
+        "name": "NFL NETWORK",
+        "number": 177
+      },
+      {
+        "name": "SPORTSNET 360",
+        "number": 181
+      },
+      {
+        "name": "US_GOLF CHANNEL",
+        "number": 182
+      },
+      {
+        "name": "FX",
+        "number": 237
+      },
+      {
+        "name": "AMC",
+        "number": 247
+      },
+      {
+        "name": "NATIONAL GEOGRAPHIC",
+        "number": 272
+      },
+      {
+        "name": "US_CNN HD",
+        "number": 1103
+      },
+      {
+        "name": "US_HLN HD",
+        "number": 1108
+      },
+      {
+        "name": "SHOWCASE HD",
+        "number": 1111
+      },
+      {
+        "name": "CTV LIFE CHANNEL HD",
+        "number": 1117
+      },
+      {
+        "name": "FOOD NETWORK HD",
+        "number": 1130
+      },
+      {
+        "name": "W NETWORK HD",
+        "number": 1132
+      },
+      {
+        "name": "FLAVOUR NETWORK HD",
+        "number": 1135
+      },
+      {
+        "name": "US_CNBC HD",
+        "number": 1144
+      },
+      {
+        "name": "DISNEY CHANNEL HD",
+        "number": 1150
+      },
+      {
+        "name": "CARTOON NETWORK HD",
+        "number": 1157
+      },
+      {
+        "name": "NFL NETWORK HD",
+        "number": 1177
+      },
+      {
+        "name": "SPORTSNET 360 HD",
+        "number": 1181
+      },
+      {
+        "name": "US_GOLF CHANNEL HD",
+        "number": 1182
+      },
+      {
+        "name": "FX HD",
+        "number": 1237
+      },
+      {
+        "name": "FXX HD",
+        "number": 1240
+      },
+      {
+        "name": "AMC HD",
+        "number": 1247
+      },
+      {
+        "name": "NATIONAL GEOGRAPHIC HD",
+        "number": 1272
+      }
+    ],
+    "Best": [
+      {
+        "name": "TLC",
+        "number": 102
+      },
+      {
+        "name": "HISTORY",
+        "number": 105
+      },
+      {
+        "name": "DTOUR",
+        "number": 106
+      },
+      {
+        "name": "US_PEACHTREE TV",
+        "number": 121
+      },
+      {
+        "name": "US_AMERICAN HEROES CHANNEL",
+        "number": 124
+      },
+      {
+        "name": "US_FOX NEWS CHANNEL",
+        "number": 145
+      },
+      {
+        "name": "US_MSNBC",
+        "number": 149
+      },
+      {
+        "name": "BOOMERANG",
+        "number": 157
+      },
+      {
+        "name": "H2",
+        "number": 163
+      },
+      {
+        "name": "FIGHT NETWORK",
+        "number": 170
+      },
+      {
+        "name": "US_MLB NETWORK",
+        "number": 188
+      },
+      {
+        "name": "US_WGN",
+        "number": 222
+      },
+      {
+        "name": "US_WPIX",
+        "number": 223
+      },
+      {
+        "name": "US_KTLA",
+        "number": 224
+      },
+      {
+        "name": "MOVIETIME",
+        "number": 231
+      },
+      {
+        "name": "US_ADULT SWIM",
+        "number": 241
+      },
+      {
+        "name": "LIFETIME",
+        "number": 244
+      },
+      {
+        "name": "US_TCM",
+        "number": 248
+      },
+      {
+        "name": "DOCUMENTARY CHANNEL",
+        "number": 264
+      },
+      {
+        "name": "SILVER SCREEN CLASSIC",
+        "number": 266
+      },
+      {
+        "name": "CTV NATURE",
+        "number": 273
+      },
+      {
+        "name": "NAT GEO WILD",
+        "number": 276
+      },
+      {
+        "name": "US_OXYGEN TRUE CRIME",
+        "number": 277
+      },
+      {
+        "name": "ONE TV",
+        "number": 294
+      },
+      {
+        "name": "BBC NEWS",
+        "number": 301
+      },
+      {
+        "name": "T+E",
+        "number": 302
+      },
+      {
+        "name": "COTTAGE LIFE",
+        "number": 303
+      },
+      {
+        "name": "MAKEFUL",
+        "number": 322
+      },
+      {
+        "name": "BRAVO",
+        "number": 411
+      },
+      {
+        "name": "TLC HD",
+        "number": 1102
+      },
+      {
+        "name": "HISTORY HD",
+        "number": 1105
+      },
+      {
+        "name": "DTOUR HD",
+        "number": 1106
+      },
+      {
+        "name": "US_PEACHTREE TV HD",
+        "number": 1121
+      },
+      {
+        "name": "US_AMERICAN HEROES CHANNEL HD",
+        "number": 1124
+      },
+      {
+        "name": "US_FOX NEWS CHANNEL HD",
+        "number": 1145
+      },
+      {
+        "name": "BOOMERANG HD",
+        "number": 1157
+      },
+      {
+        "name": "H2 HD",
+        "number": 1163
+      },
+      {
+        "name": "FIGHT NETWORK HD",
+        "number": 1170
+      },
+      {
+        "name": "US_MLB NETWORK HD",
+        "number": 1188
+      },
+      {
+        "name": "US_MYTV BOSTON HD",
+        "number": 1221
+      },
+      {
+        "name": "US_WGN HD",
+        "number": 1222
+      },
+      {
+        "name": "US_KTLA HD",
+        "number": 1224
+      },
+      {
+        "name": "MOVIETIME HD",
+        "number": 1231
+      },
+      {
+        "name": "US_ADULT SWIM HD",
+        "number": 1241
+      },
+      {
+        "name": "LIFETIME HD",
+        "number": 1244
+      },
+      {
+        "name": "US_TCM HD",
+        "number": 1248
+      },
+      {
+        "name": "DOCUMENTARY CHANNEL HD",
+        "number": 1264
+      },
+      {
+        "name": "SILVER SCREEN CLASSIC HD",
+        "number": 1266
+      },
+      {
+        "name": "CTV NATURE HD",
+        "number": 1273
+      },
+      {
+        "name": "NAT GEO WILD HD",
+        "number": 1276
+      },
+      {
+        "name": "US_OXYGEN TRUE CRIME HD",
+        "number": 1277
+      },
+      {
+        "name": "ID HD",
+        "number": 1278
+      },
+      {
+        "name": "BBC NEWS HD",
+        "number": 1301
+      },
+      {
+        "name": "T+E HD",
+        "number": 1302
+      },
+      {
+        "name": "COTTAGE LIFE HD",
+        "number": 1303
+      },
+      {
+        "name": "BRAVO HD",
+        "number": 1411
+      }
+    ],
+    "Multicultural & International": [
+      {
+        "name": "YES TV",
+        "number": 289
+      },
+      {
+        "name": "ODYSSEY",
+        "number": 503
+      },
+      {
+        "name": "B4U MOVIES",
+        "number": 504
+      },
+      {
+        "name": "GMA PINOY TV",
+        "number": 507
+      },
+      {
+        "name": "GMA LIFE TV",
+        "number": 508
+      },
+      {
+        "name": "TV POLONIA",
+        "number": 515
+      },
+      {
+        "name": "SPORTSNET WORLD",
+        "number": 521
+      },
+      {
+        "name": "MIRACLE CHANNEL",
+        "number": 523
+      },
+      {
+        "name": "GMA NEWS TV INTERNATIONAL",
+        "number": 524
+      },
+      {
+        "name": "FILIPINO TV",
+        "number": 525
+      },
+      {
+        "name": "GERMAN KINO PLUS",
+        "number": 529
+      },
+      {
+        "name": "KAPATID TV5",
+        "number": 530
+      },
+      {
+        "name": "SCHLAGER TV",
+        "number": 531
+      },
+      {
+        "name": "RTVI",
+        "number": 533
+      },
+      {
+        "name": "PTC PUNJABI",
+        "number": 534
+      },
+      {
+        "name": "5 KANAL",
+        "number": 537
+      },
+      {
+        "name": "FIRST NATIONAL",
+        "number": 538
+      },
+      {
+        "name": "1+1 INTERNATIONAL",
+        "number": 539
+      },
+      {
+        "name": "JOY TV",
+        "number": 1032
+      },
+      {
+        "name": "AL JAZEERA ENGLISH",
+        "number": 1288
+      },
+      {
+        "name": "YES TV HD",
+        "number": 1289
+      },
+      {
+        "name": "ATN STAR PLUS",
+        "number": 1501
+      },
+      {
+        "name": "AAPKA COLORS",
+        "number": 1505
+      },
+      {
+        "name": "TFC - THE FILIPINO CHANNEL",
+        "number": 1509
+      },
+      {
+        "name": "SONY ENTERTAINMENT TELEVISION ASIA",
+        "number": 1510
+      },
+      {
+        "name": "ZEE TV CANADA",
+        "number": 1511
+      },
+      {
+        "name": "SALT AND LIGHT",
+        "number": 1513
+      },
+      {
+        "name": "CBN",
+        "number": 1516
+      },
+      {
+        "name": "UNIVISION CANADA",
+        "number": 1517
+      },
+      {
+        "name": "SPORTSNET WORLD HD",
+        "number": 1521
+      },
+      {
+        "name": "RAI ITALIA",
+        "number": 1522
+      },
+      {
+        "name": "FILIPINO TV HD",
+        "number": 1525
+      },
+      {
+        "name": "BEIN SPORTS",
+        "number": 1527
+      },
+      {
+        "name": "WILLOW TV",
+        "number": 1535
+      },
+      {
+        "name": "US_BIG TEN NETWORK",
+        "number": 1540
+      }
+    ],
+    "Movies & Series": [
+      {
+        "name": "HBO 1",
+        "number": 209
+      },
+      {
+        "name": "HBO 2",
+        "number": 210
+      },
+      {
+        "name": "CRAVE1",
+        "number": 211
+      },
+      {
+        "name": "CRAVE2",
+        "number": 212
+      },
+      {
+        "name": "CRAVE3",
+        "number": 213
+      },
+      {
+        "name": "CRAVE4",
+        "number": 214
+      },
+      {
+        "name": "STARZ",
+        "number": 215
+      },
+      {
+        "name": "STARZ 2",
+        "number": 216
+      },
+      {
+        "name": "SUPER CHANNEL FUSE",
+        "number": 217
+      },
+      {
+        "name": "SUPER CHANNEL HEART & HOME",
+        "number": 218
+      },
+      {
+        "name": "SUPER CHANNEL VAULT",
+        "number": 219
+      },
+      {
+        "name": "SUPER CHANNEL QUEST",
+        "number": 220
+      },
+      {
+        "name": "CRAVE ON DEMAND",
+        "number": 1208
+      },
+      {
+        "name": "HBO 1 HD",
+        "number": 1209
+      },
+      {
+        "name": "HBO 2 HD",
+        "number": 1210
+      },
+      {
+        "name": "CRAVE1 HD",
+        "number": 1211
+      },
+      {
+        "name": "CRAVE2 HD",
+        "number": 1212
+      },
+      {
+        "name": "CRAVE3 HD",
+        "number": 1213
+      },
+      {
+        "name": "CRAVE4 HD",
+        "number": 1214
+      },
+      {
+        "name": "STARZ HD",
+        "number": 1215
+      },
+      {
+        "name": "STARZ 2 HD",
+        "number": 1216
+      },
+      {
+        "name": "SUPER CHANNEL FUSE HD",
+        "number": 1217
+      },
+      {
+        "name": "SUPER CHANNEL H&H HD",
+        "number": 1218
+      },
+      {
+        "name": "SUPER CHANNEL VAULT HD",
+        "number": 1219
+      },
+      {
+        "name": "SUPER CHANNEL QUEST HD",
+        "number": 1220
+      },
+      {
+        "name": "SKY NEWS HD",
+        "number": 1306
+      },
+      {
+        "name": "SUPER ÉCRAN 1 HD",
+        "number": 1416
+      },
+      {
+        "name": "SUPER ÉCRAN 2 HD",
+        "number": 1417
+      },
+      {
+        "name": "SUPER ÉCRAN 3 HD",
+        "number": 1418
+      },
+      {
+        "name": "SUPER ÉCRAN 4 HD",
+        "number": 1419
+      },
+      {
+        "name": "HOLLYWOOD SUITE ON DEMAND",
+        "number": 1610
+      },
+      {
+        "name": "HOLLYWOOD SUITE 70s+",
+        "number": 1611
+      },
+      {
+        "name": "HOLLYWOOD SUITE 80s & 90s",
+        "number": 1612
+      },
+      {
+        "name": "HOLLYWOOD SUITE 2000s",
+        "number": 1613
+      },
+      {
+        "name": "HOLLYWOOD SUITE 2010s+",
+        "number": 1614
+      }
+    ],
+    "French Add-Ons": [
+      {
+        "name": "LCN",
+        "number": 138
+      },
+      {
+        "name": "RDS",
+        "number": 191
+      },
+      {
+        "name": "TVA SPORTS",
+        "number": 197
+      },
+      {
+        "name": "TÉLÉ-QUÉBEC",
+        "number": 412
+      },
+      {
+        "name": "TÉLÉTOON FRENCH",
+        "number": 413
+      },
+      {
+        "name": "RDS INFO",
+        "number": 414
+      },
+      {
+        "name": "ADDIK",
+        "number": 415
+      },
+      {
+        "name": "ICI ARTV",
+        "number": 421
+      },
+      {
+        "name": "SÉRIES+",
+        "number": 422
+      },
+      {
+        "name": "CANAL D",
+        "number": 423
+      },
+      {
+        "name": "Z",
+        "number": 424
+      },
+      {
+        "name": "ZESTE",
+        "number": 425
+      },
+      {
+        "name": "EVASION",
+        "number": 426
+      },
+      {
+        "name": "ICI EXPLORA",
+        "number": 427
+      },
+      {
+        "name": "HISTORIA",
+        "number": 431
+      },
+      {
+        "name": "PRISE2",
+        "number": 432
+      },
+      {
+        "name": "CASA",
+        "number": 433
+      },
+      {
+        "name": "INVESTIGATION (FRENCH)",
+        "number": 435
+      },
+      {
+        "name": "ELLE FICTIONS",
+        "number": 436
+      },
+      {
+        "name": "MAX",
+        "number": 437
+      },
+      {
+        "name": "BABY TV EN FRANÇAIS",
+        "number": 442
+      },
+      {
+        "name": "ZESTE HD",
+        "number": 1136
+      },
+      {
+        "name": "RDS HD",
+        "number": 1191
+      },
+      {
+        "name": "TVA SPORTS HD",
+        "number": 1197
+      },
+      {
+        "name": "EURONEWS EN FRANCAIS HD",
+        "number": 1434
+      }
+    ],
+    "Premium Sports": [
+      {
+        "name": "NFL SUNDAY TICKET",
+        "number": 1811
+      },
+      {
+        "name": "NHL CENTRE ICE HD",
+        "number": 1831
+      },
+      {
+        "name": "MLB EXTRA INNINGS HD",
+        "number": 1851
+      },
+      {
+        "name": "NBA LEAGUE PASS HD",
+        "number": 1871
+      }
+    ],
+    "Other": [
+      {
+        "name": "STINGRAY KARAOKE",
+        "number": 61
+      },
+      {
+        "name": "TUMBLEBOOKS",
+        "number": 81
+      },
+      {
+        "name": "EWTN",
+        "number": 500
+      },
+      {
+        "name": "STINGRAY KARAOKE HD",
+        "number": 1061
+      },
+      {
+        "name": "FAIRCHILD TELEVISION",
+        "number": 1506
+      },
+      {
+        "name": "TALENTVISION",
+        "number": 1520
+      }
+    ],
+    "Adult": [
+      {
+        "name": "EXXXTASY",
+        "number": 952
+      },
+      {
+        "name": "RED HOT TV",
+        "number": 953
+      },
+      {
+        "name": "PENTHOUSE TV",
+        "number": 954
+      },
+      {
+        "name": "PLAYBOY TV HD",
+        "number": 1951
+      },
+      {
+        "name": "DORCEL TV",
+        "number": 1955
+      }
+    ]
+  }
+}
